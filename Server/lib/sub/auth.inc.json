@@ -23,8 +23,8 @@
         "clientID": "",
         "callbackURL": "/login/kakao/callback"
     }, "discord": {
-        "clientID": "",
-		"clientSecret": "",
+        "clientID": "1357971044811669594",
+		"clientSecret": "_s1XcJz2unHfb6_pgxGdvfS-AFq9K2pB",
         "callbackURL": "/login/discord/callback"
     }, "twitch": {
         "clientID": "",
